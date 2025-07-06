@@ -2,7 +2,7 @@
 
 Soy Arlinton Feliz un progrmador full stack 
 
-Soy estudiante de In.Software en Unicaribe (10/12) y a su de Talending  en la  carrera tecnica de desarrollo de software.
+Soy estudiante de In.Software en Unicaribe (10/12) y a su vez de Talending  en la  carrera tecnica de desarrollo de software.
 
 
 <!--
