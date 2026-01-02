@@ -2,10 +2,7 @@ Hola 👋 Mi nombre es Arlinton Feliz
 ====================================== 
 Desarrollador Fullstack jr 
 -------------------------- 
-* 🌍 Estoy basado en República Dominicana
 * ✉️ Puedes contactarme en [felizarlinton@gmail.com](mailto:felizarlinton@gmail.com)
-* 🧠 Actualmente estoy mejorando mis conocimientos de los patrones de diseños y arquitecturas
-* 👥 Busco colaborar en proyectos de backend de todo tipo
 * Soy estudiante de Ing.Software en Unicaribe (11/12) y a su vez de Talending  en la  carrera tecnica de desarrollo de software.
   
 <p align="left">
